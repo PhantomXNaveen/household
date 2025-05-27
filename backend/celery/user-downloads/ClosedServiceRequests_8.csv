@@ -1,0 +1,2 @@
+id,service_id,customer_id,professional_id,date_of_request,date_of_completion,service_status,remarks,customer_phone,customer_msg,rating
+7,3,3,8,2024-11-22T10:23:20,2024-11-22T10:23:42.906051,closed,,45769416,Do it fast,

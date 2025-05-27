@@ -1,0 +1,3 @@
+id,service_id,customer_id,professional_id,date_of_request,date_of_completion,service_status,remarks,customer_phone,customer_msg,rating
+5,1,3,2,2024-11-21T19:24:20,2024-11-22T09:38:10,closed,Done a great work.,54984321,Do it fast,5
+7,3,3,8,2024-11-22T10:23:20,2024-11-22T10:24:51,closed,great work,45769416,Do it fast,4
